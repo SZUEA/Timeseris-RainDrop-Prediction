@@ -1,0 +1,10 @@
+09
+10
+checkpoint
+__pycache__
+.idea
+*.npy
+*.xlsx
+nsi.csv
+data_10_.csv
+Amazon.csv
